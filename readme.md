@@ -1,9 +1,4 @@
 # ⚡ PySpark ETL Pipeline — Large-Scale Batch Processing
-
-> 🚧 This project is under active development.  
-> 🔗 [GitHub Repository](https://github.com/your-username/your-repo) *(link to be updated)*  
-> 📊 Outcomes and benchmarks will be added once complete.
-
 ---
 
 ## 📌 Overview
